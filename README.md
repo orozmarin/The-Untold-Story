@@ -13,7 +13,7 @@ The Untold Story is the culmination of my learning journey through a Udemy cours
 - **Epic Boss Battle**: Face off against the mighty dragon in a climactic showdown to save Sky's parents and restore peace to the land.
 
 ## Installation
-1. Clone this repository to your local machine using the following command: git clone https://github.com/your-username/dragons-quest.git
+1. Clone this repository to your local machine using the following command: git clone https://github.com/orozmarin/The-Untold-Story.git
 2. Open the project in your preferred development environment.
 3. Build and run the game.
 
